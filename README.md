@@ -14,7 +14,7 @@
  - app1과 app2는 자유 선택
 ```
 
-<iframe width="514" height="514" src="https://www.youtube.com/embed/rjWy8nTqmHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="514" src="https://www.youtube.com/embed/rjWy8nTqmHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 2. Oracle Weblogic 설치 및 app deploy
 
@@ -24,4 +24,4 @@
  - MS에 app deploy
 ```
 
-<iframe width="514" height="514" src="https://www.youtube.com/embed/lT-J8jgOxO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="514" src="https://www.youtube.com/embed/lT-J8jgOxO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
