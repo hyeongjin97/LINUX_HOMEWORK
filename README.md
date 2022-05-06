@@ -6,7 +6,7 @@
 
 ### 1. Apache-Tomcat 연동, app deploy
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
  - apache에 tomcat1 (app1), tomcat2 (app2) 연동. tomcat에는 각기 다른 app이 deploy되어 있다.
