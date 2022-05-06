@@ -14,7 +14,7 @@
  - app1과 app2는 자유 선택
 ```
 
-<iframe width="600" height="514" src="https://www.youtube.com/embed/rjWy8nTqmHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="650" height="514" src="https://www.youtube.com/embed/rjWy8nTqmHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 2. Oracle Weblogic 설치 및 app deploy
 
@@ -24,4 +24,14 @@
  - MS에 app deploy
 ```
 
-<iframe width="600" height="514" src="https://www.youtube.com/embed/lT-J8jgOxO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="650" height="514" src="https://www.youtube.com/embed/lT-J8jgOxO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 3. Google Cloud Platform Compute engine 위에서 Apache-Tomcat  설치, 연동, App deploy
+
+```markdown
+  - 방화벽 해제 방법 소개
+ - app은 자유 선택
+```
+<iframe width="650" height="514" src="https://www.youtube.com/embed/OlNlU0YwylU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
