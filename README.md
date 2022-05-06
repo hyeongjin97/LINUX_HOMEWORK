@@ -6,8 +6,6 @@
 
 ### 1. Apache-Tomcat 연동, app deploy
 
-
-
 ```markdown
  - apache에 tomcat1 (app1), tomcat2 (app2) 연동. tomcat에는 각기 다른 app이 deploy되어 있다.
  - apache DocumentRoot에 index.html을 위치 시키고, 이것을 첫 화면으로 활용. 
@@ -16,3 +14,4 @@
  - app1과 app2는 자유 선택
 ```
 
+<iframe width="1391" height="514" src="https://www.youtube.com/embed/rjWy8nTqmHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
