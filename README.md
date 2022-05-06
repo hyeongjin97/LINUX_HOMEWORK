@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## LINUX_HOMEWORK
+[리눅스 프로그래밍 과제]
+총 동영상 3개 제작(각 동영상에서 필요한 개념 설명 할것, 필요한 항목들 설명할것, 설치하는 과정 등은 짧아도 됨. 편집 가능. 완성된 것 보여주기.)
+유튜브 업로드 및 github에 linux programming  페이지 만들기.
 
-You can use the [editor on GitHub](https://github.com/hyeongjin97/LINUX_HOMEWORK/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 1. Apache-Tomcat 연동, app deploy
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+ - apache에 tomcat1 (app1), tomcat2 (app2) 연동. tomcat에는 각기 다른 app이 deploy되어 있다.
+ - apache DocumentRoot에 index.html을 위치 시키고, 이것을 첫 화면으로 활용. 
+ - 해당 index.html page에서 app1과 app2를 실행할수 있도록 링크로 연결한다.
+ - apache가 tomcat에게 url을 기반으로 요청을 분배하는것에 대한 개념 설명
+ - app1과 app2는 자유 선택
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hyeongjin97/LINUX_HOMEWORK/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
